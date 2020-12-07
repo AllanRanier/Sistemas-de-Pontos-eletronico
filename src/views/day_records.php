@@ -13,12 +13,12 @@
         </div>
         <div class="card-body">
             <div class="d-flex m-5 justify-content-around">
-                <span>Entranda 1: ---</span>
-                <span>Saída 1: ---</span>
+                <span class="record">Entranda 1: ---</span>
+                <span class="record">Saída 1: ---</span>
             </div>
             <div class="d-flex m-5 justify-content-around">
-                <span>Entranda 2: ---</span>
-                <span>Saída 2: ---</span>
+                <span class="record">Entranda 2: ---</span>
+                <span class="record">Saída 2: ---</span>
             </div>
         </div>
         <div class="card-footer d-flex justify-content-around">
